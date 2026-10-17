@@ -1,5 +1,7 @@
 # Gonarch Saveload Focus
 
+Download from [here](https://github.com/fireblizzard/obs-gonarch-saveload-focus/releases/latest/download/gonarch_saveload_focus.lua) (latest release, right side of this page if you're on the PC).
+
 This is a small OBS script for Half-Life speedrunners that should allow you to focus properly on the sound cues for the [Gonarch saveload strat](https://www.youtube.com/watch?v=MO6DBXMfgX4&list=PLMBRVm_PJgpCK3iIsugoho-YFhvquzAxT&index=17). It mutes whatever you pick in OBS (music, alerts, chat sounds...) around that moment and unmutes it again afterwards. So if you're afraid of a follow alert or a Discord sound popping up and ruining your run, you can use this to mute those audio sources.
 
 ## Requirements
